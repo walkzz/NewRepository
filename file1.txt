@@ -1,3 +1,4 @@
 SemosGit
 chas git
 nekoi git komandi
+4ta linija
