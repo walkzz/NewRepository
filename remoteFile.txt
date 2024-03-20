@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 remote branch file name
-=======
-remote branch file Text
->>>>>>> remote-branch
